@@ -4,4 +4,5 @@ Welcome to the GitHub Wallpapers Gallery! Here you can find a collection of beau
 
 ## Wallpaper Collection
 
-*Click on the image for full resolution!*
+### Wallpaper 1
+![Wallpaper 1](simon-rae-418042-unsplash.jpg)
